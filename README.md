@@ -1,8 +1,8 @@
 ![1](https://github.com/arijknani/multi-step-signin/assets/118684147/aac814f4-8467-4020-a6e4-432e7f627dd5)
+![2](https://github.com/arijknani/multi-step-signin/assets/118684147/35a8ff88-d876-48b6-9140-40aab3b04131)
 
+![3](https://github.com/arijknani/multi-step-signin/assets/118684147/7a9abe3d-0666-47fa-af5d-f0ae2079c5f9)
 
-![Uploading 3.png…]()
-![Uploading 2.png…]()
 
 # Getting Started with Create React App
 
