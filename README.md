@@ -1,3 +1,9 @@
+![1](https://github.com/arijknani/multi-step-signin/assets/118684147/aac814f4-8467-4020-a6e4-432e7f627dd5)
+
+
+![Uploading 3.png…]()
+![Uploading 2.png…]()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
